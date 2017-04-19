@@ -16,5 +16,6 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ### 7th JS Talks (April 11th, 2017.)
 
+- [Typing JavaScript - Krešimir Antolić, Oradian](talks-7/typing_javascript_kresimir_antolic.pdf)
 - [WC, KISS - Luka Skukan, Infinum](talks-7/wc_kiss_luka_skukan.pdf)
 - [Angular 2 - Mihael Šafarić, Infinum](talks-7/angular_2_mihael_safaric.pdf)
