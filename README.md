@@ -1,5 +1,7 @@
-Infinum JS Talks Slides Repo
-=============================
+<p align="center">
+  <img width="300" src="_assets/ducky.png" />
+  <h1>Infinum JS Talks Slides Repo</h1>
+</p>
 
 Thanks for having fun with us. Here you can find slides and accompanying materials
 for the presentations we had so far. If this is your first time attending 
