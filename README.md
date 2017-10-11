@@ -16,7 +16,7 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ### 10th JS Talks (October 10th, 2017.)
 - [Images and the web - Tomislav Slovenec, Infinum](talks-10/images_and_the_web_tomislav_slovenec.pdf)
-- How I Learned To Stop Worrying and Love RxJS - Luka Skukan, Oradian
+- [How I Learned To Stop Worrying and Love RxJS - Luka Skukan, Oradian](talks-10/rxjs_luka_skukan.pdf)
 - [Fetch API - Andrei Zvonimir Crnkovic, Infinum](talks-10/fetch_andrei_zvonimir_crnkovic.pdf)
 - [Preact - Darko Kukovec, Infinum](talks-10/preact_darko_kukovec.pdf)
 
