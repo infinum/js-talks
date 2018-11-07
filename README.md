@@ -4,15 +4,20 @@
 </p>
 
 Thanks for having fun with us. Here you can find slides and accompanying materials
-for the presentations we had so far. If this is your first time attending 
-Infinum JS talks consider joining us on 
-[meetup.com](https://www.meetup.com/Infinum-JS-Talks/) where we post announcements 
+for the presentations we had so far. If this is your first time attending
+Infinum JS talks consider joining us on
+[meetup.com](https://www.meetup.com/Infinum-JS-Talks/) where we post announcements
 for upcoming meetups.
 
-If you have any questions, concerns, comments, or if you want to speak, 
+If you have any questions, concerns, comments, or if you want to speak,
 please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks@infinum.co).
 
 ## Presentations in chronological order
+
+### 13th JS Talks (October 23rd, 2018.)
+- [Yarn Workspaces - Roberto Kedmenec, Tria](talks-13/)
+- [Webpack Dynamic Import - Ivan Ružević, Infinum](talks-13/webpack-dynamic-import.pdf)
+- [React Native in production - Mauro Jurinčić, iOLAP, Inc.](talks-13/react-native-in-production.pdf)
 
 ### 10th JS Talks (October 10th, 2017.)
 - [Images and the web - Tomislav Slovenec, Infinum](talks-10/images_and_the_web_tomislav_slovenec.pdf)
@@ -60,4 +65,3 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 - [Always look on the evergreen side of life - Darko Kukovec](talks-1/always_look_on_the_evergreen_side_of_life_darko_kukovec.pdf)
 - [Design patterns in JavaScript: Why they (don't) matter? - Luka Skukan](talks-1/patterns_luka_skukan.pdf)
-
