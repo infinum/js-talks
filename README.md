@@ -15,7 +15,7 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 ## Presentations in chronological order
 
 ### 13th JS Talks (October 23rd, 2018.)
-- [Yarn Workspaces - Roberto Kedmenec, Tria](talks-13/)
+- [Yarn Workspaces - Roberto Kedmenec, Tria](talks-13/yarn-workspaces.pdf) + [Demo repo](https://github.com/kedmenecr/infinum-talk)
 - [Webpack Dynamic Import - Ivan Ružević, Infinum](talks-13/webpack-dynamic-import.pdf)
 - [React Native in production - Mauro Jurinčić, iOLAP, Inc.](talks-13/react-native-in-production.pdf)
 
