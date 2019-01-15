@@ -14,6 +14,11 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ## Presentations in chronological order
 
+### 14th JS Talks (October 23rd, 2018.)
+- [The simple flexibility of variable fonts - Tomislav Slovenec, Infinum](talks-14/the-simple-flexibility-of-variable-fonts.pdf)
+- [GraphQL for the REST of us - Filip Stojanac, Farshore Partners](talks-14/graphql-for-the-rest-of-us.pdf)
+- [The front side of GraphQL - Leo Brdar, Infinum](talks-14/the-front-side-of-graphql.pdf)
+
 ### 13th JS Talks (October 23rd, 2018.)
 - [Yarn Workspaces - Roberto Kedmenec, Tria](talks-13/yarn-workspaces.pdf) + [Demo repo](https://github.com/kedmenecr/infinum-talk)
 - [Webpack Dynamic Import - Ivan Ružević, Infinum](talks-13/webpack-dynamic-import.pdf)
