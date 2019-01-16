@@ -14,7 +14,7 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ## Presentations in chronological order
 
-### 14th JS Talks (October 23rd, 2018.)
+### 14th JS Talks (December 4th, 2018.)
 - [The simple flexibility of variable fonts - Tomislav Slovenec, Infinum](talks-14/the-simple-flexibility-of-variable-fonts.pdf)
 - [GraphQL for the REST of us - Filip Stojanac, Farshore Partners](talks-14/graphql-for-the-rest-of-us.pdf)
 - [The front side of GraphQL - Leo Brdar, Infinum](talks-14/the-front-side-of-graphql.pdf)
