@@ -16,7 +16,7 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ### 15th JS Talks (January 29th, 2019.)
 - [React Hooks](talks-15/react-hooks.pdf) - Adrian Bićanić, Infinum
-- [Web Assembly + dotNet = Blazor](talks-15/blazor.pdf) - Dobriša Adamec, CITUS; Marko Lohert, Ekobit
+- [Web Assembly + dotNet = Blazor](talks-15/blazor.pdf) + [Demo repo](https://github.com/marko-lohert/BlazorVacation) - Dobriša Adamec, CITUS; Marko Lohert, Ekobit
 
 ### 14th JS Talks (December 4th, 2018.)
 - [The simple flexibility of variable fonts](talks-14/the-simple-flexibility-of-variable-fonts.pdf) - Tomislav Slovenec, Infinum
