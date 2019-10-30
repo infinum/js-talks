@@ -14,6 +14,16 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ## Presentations in chronological order
 
+### 17th JS Talks (October 29th, 2019.)
+- [Live recording on YouTube](https://www.youtube.com/watch?v=Y7JBHniSV68)
+- [Building Websites Like It's 1999](talks-17/web-dev-in-1999.pdf) - Darko Kukovec, Infinum
+- [E2E Testing and You](talks-17/e2e-testing.pdf) - Ivan Grginov, Infinum
+
+### 16th JS Talks (April 23rd, 2019.)
+- [Server-side Rendering in React and Angular (in general)](talks-16/ssr-general.pdf) - Filip Voska, Infinum; Ivica Batinić, Infinum
+- [Server-side Rendering in React](talks-16/ssr-react-next.pdf) - Ivica Batinić, Infinum
+- [Server-side Rendering in Angular](talks-16/ssr-angular.pdf) - Filip Voska, Infinum
+
 ### 15th JS Talks (January 29th, 2019.)
 - [React Hooks](talks-15/react-hooks.pdf) - Adrian Bićanić, Infinum
 - [Web Assembly + dotNet = Blazor](talks-15/blazor.pdf) + [Demo repo](https://github.com/marko-lohert/BlazorVacation) - Dobriša Adamec, CITUS; Marko Lohert, Ekobit
