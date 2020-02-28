@@ -14,6 +14,10 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ## Presentations in chronological order
 
+### Building a Video on Demand Platform (February 20th, 2020.)
+- [Hello, VOD!](talks-vod/hello-vod.pdf) - Marko Ćilimković, Infinum
+- [Secure Media Streaming](talks-vod/secure-media-streaming.pdf) - Matija Derk, Infinum
+
 ### 17th JS Talks (October 29th, 2019.)
 - [Live recording on YouTube](https://www.youtube.com/watch?v=Y7JBHniSV68)
 - [Building Websites Like It's 1999](talks-17/web-dev-in-1999.pdf) - Darko Kukovec, Infinum
