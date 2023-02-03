@@ -14,6 +14,18 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ## Presentations in chronological order
 
+### Mastering TypeScript (March 30th, 2021.)
+
+- [Recording of the event](https://www.youtube.com/watch?v=Hrp97c-KtYI)
+  - Introduction to TypeScript - Filip Voska, Infinum
+  - Advanced TypeScript Utility Types - Filip Jakov Bulić, Infinum
+
+### Infinum JS Talks Turn 18 (December 17th, 2020.)
+
+- [Recording of the event](https://www.youtube.com/watch?v=-OZ8dqCqE6Y)
+  - Going to Deno from Node - Roberto Kedmenec, Tria
+  - a11y Forms - Kristian Djaković, Infinum
+
 ### Building a Video on Demand Platform (February 20th, 2020.)
 - [Hello, VOD!](talks-vod/hello-vod.pdf) - Marko Ćilimković, Infinum
 - [Secure Media Streaming](talks-vod/secure-media-streaming.pdf) - Matija Derk, Infinum
