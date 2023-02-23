@@ -14,6 +14,13 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ## Presentations in chronological order
 
+### Micro-Frontends & Production Previewing (Feb 9th, 2023.)
+
+- Preview it in production - Klemen Kogovšek, tretton37
+  - [Recording](https://youtu.be/xJFIaN_6Eu0) | [Demo repository](https://github.com/kkogovsek/preview-stack)
+- Micro-Frontends Architecture with Nx and Angular - Filip Voska, Infinum
+  - [Recording](https://youtu.be/GNj4OjKTK8Q) | [Demo repository & slides](https://github.com/infinum/js-infinum-talks-mfe-demo)
+
 ### Mastering TypeScript (March 30th, 2021.)
 
 - [Recording of the event](https://www.youtube.com/watch?v=Hrp97c-KtYI)
