@@ -14,7 +14,7 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 
 ## Presentations in chronological order
 
-### Micro-Frontends & Production Previewing (Feb 9th, 2023.)
+### [Micro-Frontends & Production Previewing](https://infinum.com/events/micro-frontends-production-previewing/) (Feb 9th, 2023.)
 
 - Preview it in production - Klemen Kogovšek, tretton37
   - [Recording](https://youtu.be/xJFIaN_6Eu0) | [Demo repository](https://github.com/kkogovsek/preview-stack)
