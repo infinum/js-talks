@@ -17,7 +17,7 @@ please don't hesitate to drop us a line at [js.talks@infinum.co](mailto:js.talks
 ### [Introduction to Web Components in Angular & (P)react](https://infinum.com/events/javascript-talks-skopje/) (September 28th, 2023.)
 
 - [Web Components 101](https://www.youtube.com/watch?v=Mp6zbRNgWYQ) - Filip Voska, Infinum
-- [(P)react Web Components]
+- (P)react Web Components
   - [Part 1](https://www.youtube.com/watch?v=BQGWhjh3W-s) - Dejan Mancheski, Infinum
   - [Part 2](https://www.youtube.com/watch?v=5iUIcGW5v5w) - Vedran Serenčeš, Infinum
 - [Angular Web Components](https://www.youtube.com/watch?v=_ix4KgCEyjI) - Ivan Mitrić, Infinum
